@@ -1,4 +1,10 @@
 <div>
+  <img src = "astronaut.svg" alt="My Happy SVG"
+     width="100%" 
+     height="500" />
+</div>
+
+<div>
   
   <h1 align="center">
     Hey, what's up? I am 
