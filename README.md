@@ -4,15 +4,15 @@
     Hey, what's up? I am 
     <a href="https://www.linkedin.com/in/marcoantpimenta/">Marco Antonio Custodio 😃️</a>
   </h1>
-    <IMG height="400em" align=left SRC="astronaut.svg" alt="developer"/>
+    <IMG height="400em" align=left SRC="programming.svg" alt="developer"/>
   
 
   
 </div>
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/marco-custodio">
-    <img height="400em" width="200em" src="https://github-readme-stats.vercel.app/api?username=marco-custodio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="180em" width="381em" src="https://github-readme-stats.vercel.app/api?username=marco-custodio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-custodio&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   
