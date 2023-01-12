@@ -12,8 +12,9 @@
 
 <div align="center">
   <a href="https://github.com/marco-custodio">
-    <img height="180em" width="381em" src="https://github-readme-stats.vercel.app/api?username=marco-custodio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-custodio&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="180em" width="381em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marco-custodio&&show_icons=true&theme=tokyonight"/>
+    <br/>
+    <img height="180em" width="381em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marco-custodio&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=8"/>
   </a>
   
 </div>
