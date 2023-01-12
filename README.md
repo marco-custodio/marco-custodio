@@ -23,7 +23,7 @@
     </p>
 <div align="center" valign="top"><br>
   <p align="center">
-    💻I'm a software development student!💻
+    💻I'm a software developer💻
     </p>
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
